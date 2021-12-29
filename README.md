@@ -8,12 +8,12 @@ Technologies used:
 -JAVASCRIPT
 
 Screenshot:
-<br><img src="../Assets/images/screenshot1.png target="blank" width=400px>
+<br><img src="Assets/images/screenshot1.png" target="blank" width=400px>
 
 Link to the live site:
 
 
- </h3>
+</h3>
 
 # 05 Third-Party APIs: Work Day Scheduler
 

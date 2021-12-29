@@ -1,4 +1,4 @@
-<h2>In this assignment, I have created a work day planner/ scheduler.
+<h3>In this assignment, I have created a work day planner/ scheduler.
 The planner is built to work in the browser. It will save the user inputs for each work hour, preventing the browser from clearing the data when the user refreshes the page.
 
 Technologies used:
@@ -13,7 +13,7 @@ Screenshot:
 Link to the live site:
 
 
- </h2>
+ </h3>
 
 # 05 Third-Party APIs: Work Day Scheduler
 

@@ -11,7 +11,7 @@ Screenshot:
 <br><img src="Assets/images/screenshot1.png" target="blank" width=400px>
 
 Link to the live site:
-
+https://ibarros19.github.io/workdayscheduler/
 
 </h3>
 

@@ -1,11 +1,12 @@
 <h3>In this assignment, I have created a work day planner/ scheduler.
 The planner is built to work in the browser. It will save the user inputs for each work hour, preventing the browser from clearing the data when the user refreshes the page.
 
-Technologies used:
-- HTML
-- CSS
-- MOMENT.JS
--JAVASCRIPT
+Technologies used:<br><br>
+HTML<br>
+JAVASCRIPT<br>
+CSS<br>
+MOMENT.JS
+
 
 Screenshot:
 <br><img src="Assets/images/screenshot1.png" target="blank" width=400px>
